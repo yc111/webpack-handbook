@@ -19,5 +19,5 @@ $ webpack --progress --colors --watch
 $ npm install webpack-dev-server -g
 
 # 运行
-$ webpack-dev-server --progress --colors
+$ webpack-dev-server --progress --colors --watch
 ```
